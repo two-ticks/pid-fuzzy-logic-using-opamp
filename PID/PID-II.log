@@ -1,0 +1,23 @@
+Circuit: * D:\two-ticks\pid-fuzzy-logic-using-opamp\PID\PID-II.asc
+
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v1.  Increasing period to 20
+Limiting rise time of source v1 to 3.90799e-015
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Feb 28 00:47:50 2022
+Total elapsed time: 0.190 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2357
+traniter = 2354
+tranpoints = 1178
+accept = 1154
+rejected = 24
+matrix size = 25
+fillins = 26
+solver = Normal
+Matrix Compiler1: 2.45 KB object code size  0.5/0.3/[0.2]
+Matrix Compiler2: 2.84 KB object code size  0.2/0.3/[0.2]
+
